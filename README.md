@@ -48,7 +48,7 @@ Gestion des réponses
 
 Traitement des Erreurs
 
-* Gestion robuste des erreurs pour un meilleur déboggage et une expérience utilisateur améliorée.
+* Gestion robuste des erreurs pour un meilleur débogage et une expérience utilisateur améliorée.
 
 * Messages d’erreurs clairs et des codes de statut HTTP appropriés pour faciliter l’intégration avec d’autres systèmes.
 
